@@ -1,0 +1,27 @@
+api/node_modules
+api/public/hot
+api/public/storage
+api/storage/*.key
+api/vendor
+
+app/node_modules
+
+/dist
+.DS_Store
+
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
